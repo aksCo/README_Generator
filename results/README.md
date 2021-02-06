@@ -1,9 +1,9 @@
 
-    <h1 align="center">README Generator</h1>
-    ![badge](https://img.shields.io/badge/license-undefined-red) <br/>
+    <h1 align="center">Read Me Generator</h1>
+    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
 
     #Description
-    Creates a README based on User Input
+    Creates a ReadMe file
 
     #Table of Contents
 
@@ -21,16 +21,16 @@
     #Usage
     node index.js
 
-    #License
-    ![badge](https://img.shields.io/badge/license-undefined-red)<br/>
-    This application is covered by : MIT License.
+    #License 
+
+    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
 
     #Contributing
-    N/A
+    aksCo
     aksCo
 
     #Tests
-    Test
+    NA
 
     #Questions
-    If you have questions, email me at: aks@auburn.gmail.com 
+    If you have questions, email me at: aks.auburn@gmail.com 

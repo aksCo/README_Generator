@@ -1,7 +1,7 @@
 function generateReadme(data) {
     return `
     <h1 align="center">${data.Title}</h1>
-    ![badge](https://img.shields.io/badge/license-${data.license}-red) <br/>
+    [![License](https://img.shields.io/badge/License-${data.License}-red.svg)]
 
     #Description
     ${data.Description}
@@ -22,9 +22,9 @@ function generateReadme(data) {
     #Usage
     ${data.Usage}
 
-    #License
-    ![badge](https://img.shields.io/badge/license-${data.license}-red)<br/>
-    This application is covered by : ${data.License} License.
+    #License 
+
+    [![License](https://img.shields.io/badge/License-${data.License}-red.svg)]
 
     #Contributing
     ${data.Contributing}

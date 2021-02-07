@@ -4,7 +4,8 @@
     Creates a README based on User Input
 
 [!Here's a Gif](assets/Gif/README.gif)
-  [!Watch this video for a walkthrough](assets/Video/README file video.mov)
+
+[!Watch this video for a walkthrough](assets/Video/README file video.mov)
 
 # User Story    
 

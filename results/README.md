@@ -1,6 +1,6 @@
 
     <h1 align="center">Read Me Generator</h1>
-    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
+    ![License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Description
     Creates a ReadMe file
@@ -23,7 +23,7 @@
 
     #License 
 
-    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
+    ![License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Contributing
     aksCo

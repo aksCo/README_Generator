@@ -3,7 +3,7 @@
 # Description
     Creates a README based on User Input
 
-[!Here's a Gif](assets/Gif/README.gif)
+![Here's a Gif](assets/Gif/README.gif)
 
 # User Story    
 

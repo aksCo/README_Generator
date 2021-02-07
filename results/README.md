@@ -3,7 +3,7 @@
     [License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Description
-    Creates a README
+    Creates a README Generator
 
     #Table of Contents
 
@@ -26,7 +26,7 @@
     [License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Contributing
-    https://www.npmjs.com/package/inquirer
+    https://www.npmjs.com
     aksCo
 
     #Tests

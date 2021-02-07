@@ -1,7 +1,7 @@
 function generateReadme(data) {
     return `
     ${data.Title}
-    [![License](https://img.shields.io/badge/License-${data.License}-red.svg)]
+    [License](https://img.shields.io/badge/License-${data.License}-red.svg)
 
     #Description
     ${data.Description}
@@ -24,7 +24,7 @@ function generateReadme(data) {
 
     #License 
 
-    [![License](https://img.shields.io/badge/License-${data.License}-red.svg)]
+    [License](https://img.shields.io/badge/License-${data.License}-red.svg)
 
     #Contributing
     ${data.Contributing}

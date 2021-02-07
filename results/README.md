@@ -1,9 +1,9 @@
 
-    Read Me Generator
-    ![License](https://img.shields.io/badge/License-MIT-red.svg)
+    README
+    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
 
     #Description
-    Creates a ReadMe file
+    Creates a README
 
     #Table of Contents
 
@@ -23,10 +23,10 @@
 
     #License 
 
-    ![License](https://img.shields.io/badge/License-MIT-red.svg)
+    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
 
     #Contributing
-    aksCo
+    https://www.npmjs.com/package/inquirer
     aksCo
 
     #Tests

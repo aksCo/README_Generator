@@ -1,6 +1,6 @@
 function generateReadme(data) {
     return `
-    <h1 align="center">${data.Title}</h1>
+    ${data.Title}
     [![License](https://img.shields.io/badge/License-${data.License}-red.svg)]
 
     #Description

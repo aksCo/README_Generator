@@ -1,6 +1,6 @@
 
     README
-    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
+    [License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Description
     Creates a README
@@ -23,7 +23,7 @@
 
     #License 
 
-    [![License](https://img.shields.io/badge/License-MIT-red.svg)]
+    [License](https://img.shields.io/badge/License-MIT-red.svg)
 
     #Contributing
     https://www.npmjs.com/package/inquirer

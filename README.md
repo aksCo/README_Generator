@@ -49,7 +49,7 @@
 
 # License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
    
     This application is covered by : MIT License.
 

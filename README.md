@@ -56,4 +56,4 @@
     This application is covered by : MIT License
 
 # Questions
-If you have questions, email me at: aks@auburn.gmail.com 
+If you have questions, email me at: xxx@YYYY.com

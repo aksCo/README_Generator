@@ -49,7 +49,7 @@
 
 # License
 
-[![license][https://img.shields.io/github/license/aksCo/README_Generator]
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)]
    
     This application is covered by : MIT License.
 

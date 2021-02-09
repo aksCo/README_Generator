@@ -48,7 +48,7 @@
     node index.js
 
 # License
-    ![badge](https://img.shields.io/badge/license-undefined-red)<br/>
+    ![License](https://img.shields.io/badge/license-MIT-red)
     This application is covered by : MIT License.
 
 # Questions

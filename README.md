@@ -51,7 +51,7 @@
 # License
 
 
-[!License](https://opensource.org/licenses/MIT)
+[Click to read License Description](https://opensource.org/licenses/MIT)
 
     This application is covered by : MIT License
 

@@ -1,9 +1,9 @@
 
-    README
-    [License](https://img.shields.io/badge/License-MIT-red.svg)
+    README Generator
+    [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)]
 
     #Description
-    Creates a README Generator
+    Launches a README Generator
 
     #Table of Contents
 
@@ -23,14 +23,14 @@
 
     #License 
 
-    [License](https://img.shields.io/badge/License-MIT-red.svg)
+    [![License: MIT](https://opensource.org/licenses/MIT)
 
     #Contributing
-    https://www.npmjs.com
+    https://www.npmjs.com/package/inquirer
     aksCo
 
     #Tests
     NA
 
     #Questions
-    If you have questions, email me at: aks.auburn@gmail.com 
+    If you have questions, email me at: xxx@YYYY@gmail.com 

@@ -1,4 +1,5 @@
 # README Generator
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
 # Description
     Creates a README based on User Input
@@ -49,9 +50,9 @@
 
 # License
 
-![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
-   
-    This application is covered by : MIT License.
+[!License:MIT](https://opensource.org/licenses/MIT)
+
+    This application is covered by : MIT License
 
 # Questions
 If you have questions, email me at: aks@auburn.gmail.com 

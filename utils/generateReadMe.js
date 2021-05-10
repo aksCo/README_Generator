@@ -1,12 +1,12 @@
-function generateReadme(data) {
+function generatemd(data) {
     return `
-    ${data.Title}
-    [![License: ${data.License}](https://img.shields.io/badge/License-${data.License}-red.svg)]
-
-    #Description
+    <h1 align ="center">${data.Title}</h1>
+    ![badge](https://img.shields.io/badge/license-${data.license}-red.svg)<br/>
+    
+    ## Description
     ${data.Description}
 
-    #Table of Contents
+    ## Table of Contents
 
     - [Description](#Description)
     - [Installation](#Installation)
@@ -16,26 +16,25 @@ function generateReadme(data) {
     - [Tests](#Tests)
     - [Questions](#Questions)
 
-    #Installation
+    ## Installation
     ${data.Installation}
 
-    #Usage
+    ## Usage
     ${data.Usage}
 
-    #License 
-
-    [![License: ${data.License}](https://opensource.org/licenses/${data.License})
-
-    #Contributing
+    ## License 
+    ![badge](https://img.shields.io/badge/license-${data.license}-red.svg)<br/>
+    
+    ## Contributing
     ${data.Contributing}
     ${data.Username}
 
-    #Tests
+    ## Tests
     ${data.Tests}
 
-    #Questions
-    If you have questions, email me at: ${data.Email} `;
+    ## Questions
+    If you have questions, email me at: ${data.Email}`;
 
 };
 
-module.exports = generateReadme;
+module.exports = generatemd;

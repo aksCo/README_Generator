@@ -2,7 +2,8 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
 const generatemd = require("./utils/generateReadMe.js");
-const licenceprompt = require('select-prompt')
+const licenceprompt = require('select-prompt');
+
 
 // create writeFile function using promises instead of a callback function
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -41,7 +42,7 @@ const promptUser = () => {
 
         {
             type: 'list',
-            name: 'License',
+            name: 'license',
             message: 'Choose a License for this project: ',
             choices: [
                 "Apache",

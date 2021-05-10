@@ -1,21 +1,21 @@
-# README Generator
+## README Generator
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
-# Description
+## Description
     Creates a README based on User Input
 
-![Here's a Gif](assets/Gif/README.gif)
+## Video
 
+![Here's a video](assets/Video/mdVid.mov)
 
-
-# User Story    
+## User Story    
 
 - AS A developer
 - I WANT a README generator
 - SO THAT I can quickly create a professional README for a new project
 
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 - GIVEN a command-line application that accepts user input
 - WHEN I am prompted for information about my application repository
@@ -34,7 +34,7 @@
 - THEN I am taken to the corresponding section of the README
 
 
-# Table of Contents
+## Table of Contents
 
     - [Description](#Description)
     - [Installation](#Installation)
@@ -42,18 +42,18 @@
     - [License](#License)
     - [Questions](#Questions)
 
-# Installation
+## Installation
     npm init, npm install
 
-# Usage
+## Usage
     node index.js
 
-# License
+## License
 
 
 [Click to read License Description](https://opensource.org/licenses/MIT)
 
     This application is covered by : MIT License
 
-# Questions
+## Questions
 If you have questions, email me at: xxx@YYYY.com

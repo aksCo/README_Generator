@@ -7,6 +7,7 @@
 ## Video
 
 ![Here's a video](assets/Video/mdVid.mov)
+If unable to view video, please go to to assets/Video and download the file.
 
 ## User Story    
 
